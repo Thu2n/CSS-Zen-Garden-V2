@@ -1,0 +1,35 @@
+/* Color Theme Swatches in Hex
+.principal { color: #BF7582; }
+.background { color: #9A98A6; }
+.Moda-3-hex { color: #8C6056; }
+.Moda-4-hex { color: #D9ABA0; }
+.destaque { color: #260101; }
+*/
+
+html {
+    background:#BF7582 ;
+    color:#260101
+
+    font-size: 18px;
+    font-family: Cormorant Garamont;
+}
+
+p {
+    text-indent: :1em;
+}
+h1, h2 , h3 {
+    text-align: center;
+}
+h1 {
+    font-size: 1.8rem;
+}
+h2 {
+    font-size: 1.4rem;
+}
+h3 {
+    font-size: 1.2rem;
+}
+
+.summary{text-align: right;}
+.main p {line-height: 1.5;}
+abbr {font-variant: small-caps;}
